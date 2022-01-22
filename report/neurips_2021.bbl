@@ -1,0 +1,118 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[WHO()]{WHO_manual}
+\emph{WHO laboratory manual for the examination and processing of human semen}.
+
+\bibitem[Carlsen et~al.(1992)Carlsen, Giwercman, Keiding, and
+  Skakkebæk]{10.2307/29716905}
+Elisabeth Carlsen, Aleksander Giwercman, Niels Keiding, and Niels~E.
+  Skakkebæk.
+\newblock Evidence for decreasing quality of semen during past 50 years.
+\newblock \emph{BMJ: British Medical Journal}, 305\penalty0 (6854):\penalty0
+  609--613, 1992.
+\newblock ISSN 09598138, 17561833.
+\newblock URL \url{http://www.jstor.org/stable/29716905}.
+
+\bibitem[Hidayatullah et~al.(2021)Hidayatullah, Wang, Yamasaki, Mengko, Munir,
+  Barlian, Sukmawati, and Supraptono]{HIDAYATULLAH2021106302}
+Priyanto Hidayatullah, Xueting Wang, Toshihiko Yamasaki, Tati~L.E.R. Mengko,
+  Rinaldi Munir, Anggraini Barlian, Eros Sukmawati, and Supraptono Supraptono.
+\newblock Deepsperm: A robust and real-time bull sperm-cell detection in
+  densely populated semen videos.
+\newblock \emph{Computer Methods and Programs in Biomedicine}, 209:\penalty0
+  106302, 2021.
+\newblock ISSN 0169-2607.
+\newblock \doi{https://doi.org/10.1016/j.cmpb.2021.106302}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S016926072100376X}.
+
+\bibitem[Im et~al.(2018)Im, Pathania, McFarland, Sohani, Degani, Allen, Coble,
+  Kilcoyne, Hong, Rohrer, Abramson, Dryden-Peterson, Fexon, Pivovarov, Chabner,
+  Lee, Castro, and Weissleder]{Im2018-vi}
+Hyungsoon Im, Divya Pathania, Philip~J McFarland, Aliyah~R Sohani, Ismail
+  Degani, Matthew Allen, Benjamin Coble, Aoife Kilcoyne, Seonki Hong, Lucas
+  Rohrer, Jeremy~S Abramson, Scott Dryden-Peterson, Lioubov Fexon, Misha
+  Pivovarov, Bruce Chabner, Hakho Lee, Cesar~M Castro, and Ralph Weissleder.
+\newblock Design and clinical validation of a point-of-care device for the
+  diagnosis of lymphoma via contrast-enhanced microholography and machine
+  learning.
+\newblock \emph{Nat. Biomed. Eng.}, 2\penalty0 (9):\penalty0 666--674,
+  September 2018.
+
+\bibitem[Jocher et~al.(2021)Jocher, Stoken, Chaurasia, Borovec, NanoCode012,
+  TaoXie, Kwon, Michael, Changyu, Fang, V, Laughing, tkianai, yxNONG, Skalski,
+  Hogan, Nadar, imyhxy, Mammana, AlexWang1900, Fati, Montes, Hajek, Diaconu,
+  Minh, Marc, albinxavi, fatih, oleg, and
+  wanghaoyang0106]{glenn_jocher_2021_5563715}
+Glenn Jocher, Alex Stoken, Ayush Chaurasia, Jirka Borovec, NanoCode012, TaoXie,
+  Yonghye Kwon, Kalen Michael, Liu Changyu, Jiacong Fang, Abhiram V, Laughing,
+  tkianai, yxNONG, Piotr Skalski, Adam Hogan, Jebastin Nadar, imyhxy, Lorenzo
+  Mammana, AlexWang1900, Cristi Fati, Diego Montes, Jan Hajek, Laurentiu
+  Diaconu, Mai~Thanh Minh, Marc, albinxavi, fatih, oleg, and wanghaoyang0106.
+\newblock {ultralytics/yolov5: v6.0 - YOLOv5n 'Nano' models, Roboflow
+  integration, TensorFlow export, OpenCV DNN support}, October 2021.
+\newblock URL \url{https://doi.org/10.5281/zenodo.5563715}.
+
+\bibitem[Leung et~al.(2010)Leung, Lu, Esfandiari, Casper, and Sun]{5584613}
+Clement Leung, Zhe Lu, Navid Esfandiari, Robert~F. Casper, and Yu~Sun.
+\newblock Detection and tracking of low contrast human sperm tail.
+\newblock In \emph{2010 IEEE International Conference on Automation Science and
+  Engineering}, pages 263--268, 2010.
+\newblock \doi{10.1109/COASE.2010.5584613}.
+
+\bibitem[McCallum et~al.(2019)McCallum, Riordon, Wang, Kong, You, Sanner,
+  Lagunov, Hannam, Jarvi, and Sinton]{McCallum2019-mu}
+Christopher McCallum, Jason Riordon, Yihe Wang, Tian Kong, Jae~Bem You, Scott
+  Sanner, Alexander Lagunov, Thomas~G Hannam, Keith Jarvi, and David Sinton.
+\newblock Deep learning-based selection of human sperm with high {DNA}
+  integrity.
+\newblock \emph{Commun. Biol.}, 2\penalty0 (1):\penalty0 250, July 2019.
+
+\bibitem[Pavillon et~al.(2018)Pavillon, Hobro, Akira, and Smith]{PavillonE2676}
+Nicolas Pavillon, Alison~J. Hobro, Shizuo Akira, and Nicholas~I. Smith.
+\newblock Noninvasive detection of macrophage activation with single-cell
+  resolution through machine learning.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 115\penalty0
+  (12):\penalty0 E2676--E2685, 2018.
+\newblock ISSN 0027-8424.
+\newblock \doi{10.1073/pnas.1711872115}.
+\newblock URL \url{https://www.pnas.org/content/115/12/E2676}.
+
+\bibitem[PRYOR(1981)]{PRYOR1981571}
+JOHN~P. PRYOR.
+\newblock 3 - seminal analysis.
+\newblock \emph{Clinics in Obstetrics and Gynaecology}, 8\penalty0
+  (3):\penalty0 571--585, 1981.
+\newblock ISSN 0306-3356.
+\newblock \doi{https://doi.org/10.1016/S0306-3356(21)00169-2}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0306335621001692}.
+
+\bibitem[reza Mohammadi et~al.(2020)reza Mohammadi, Rahimzadeh, and
+  Attar]{mohammadi2020sperm}
+Mohammad reza Mohammadi, Mohammad Rahimzadeh, and Abolfazl Attar.
+\newblock Sperm detection and tracking in phase-contrast microscopy image
+  sequences using deep learning and modified csr-dcf, 2020.
+
+\bibitem[Riordon et~al.(2019)Riordon, McCallum, and Sinton]{RIORDON2019103342}
+Jason Riordon, Christopher McCallum, and David Sinton.
+\newblock Deep learning for the classification of human sperm.
+\newblock \emph{Computers in Biology and Medicine}, 111:\penalty0 103342, 2019.
+\newblock ISSN 0010-4825.
+\newblock \doi{https://doi.org/10.1016/j.compbiomed.2019.103342}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0010482519302112}.
+
+\bibitem[Sullivan et~al.(1038/nbt)Sullivan, Winsnes, and
+  {\AA}kesson]{Sullivan1038nbt-ta}
+D~P Sullivan, C~F Winsnes, and L~{\AA}kesson.
+\newblock Deep learning is combined with massive-scale citizen science to
+  improve large-scale image classification.
+\newblock \emph{Nat Biotechnol}, 2018;36(9):820-828:\penalty0 4225, 1038/nbt.
+
+\end{thebibliography}

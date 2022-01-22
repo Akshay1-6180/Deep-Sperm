@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: neurips_2021.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--entry type for "glenn_jocher_2021_5563715" isn't style-file defined
+--line 1 of file references.bib
+Warning--to sort, need author, organization, or key in WHO_manual
+Warning--empty year in WHO_manual
+You've used 12 entries,
+            2773 wiz_defined-function locations,
+            691 strings with 8829 characters,
+and the built_in function-call counts, 8591 in all, are:
+= -- 695
+> -- 832
+< -- 2
++ -- 279
+- -- 267
+* -- 854
+:= -- 1387
+add.period$ -- 48
+call.type$ -- 12
+change.case$ -- 124
+chr.to.int$ -- 12
+cite$ -- 27
+duplicate$ -- 249
+empty$ -- 470
+format.name$ -- 278
+if$ -- 1717
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 9
+newline$ -- 80
+num.names$ -- 44
+pop$ -- 237
+preamble$ -- 1
+purify$ -- 113
+quote$ -- 0
+skip$ -- 244
+stack$ -- 0
+substring$ -- 218
+swap$ -- 26
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 132
+warning$ -- 2
+while$ -- 46
+width$ -- 0
+write$ -- 183
+(There were 3 warnings)
